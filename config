@@ -1,0 +1,8 @@
+{
+  "map_width": 20,
+  "map_height": 20,
+  "window_width": 800,
+  "window_height": 700,
+  "fps": 60,
+  "fullscreen_mode": 0
+}
